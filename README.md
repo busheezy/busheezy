@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate full-stack developer with a desire to learn.</h3>
+<h3 align="center">A passionate full-stack developer who loves to learn.</h3>
 
 - 🔭 I’m currently working on [ShareX API](https://github.com/busheezy/sharex-api)
 
