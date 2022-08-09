@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ShareX API](https://github.com/busheezy/sharex-api)
 
-- 📄 My resume is available at [https://busheezy.dev/](https://busheezy.dev/)
+- 📄 My resume is available at [https://busheezy.dev](https://busheezy.dev)
 
 - 📫 How to reach me **busheezy@gmail.com**
 
